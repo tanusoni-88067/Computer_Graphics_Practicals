@@ -12,4 +12,6 @@
 
 6.Write a program to clip a polygon using Sutherland Hodgman algorithm.		
 
-7.Write a program to draw Hermite/Bezier curve.		
+7.Write a program to draw Hermite curve.		
+
+8.Write a program to draw Bezier curve.		
